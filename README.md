@@ -19,3 +19,6 @@ A simple web app that displays information about the key pressed on your keyboar
 
 ## License
 MIT License
+
+## Deployment
+https://key-boxes.vercel.app/
